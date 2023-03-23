@@ -69,4 +69,5 @@ During our analysis using the multiple different machine learning models, we fou
 
 ## Summary
 
+While reviewing the different models, we noticed some trends. The Precision for all of the models is at 99%, therefore each model is equivalent in precision. The Balanced Random Forest Classifier and the Ensemble Classifier both have the highest recall at 87%. Finally, the Ensemble Classifier has the highest Accuracy at 93.16%, with the Balanced Random Forest Classifier following at 72.96%. Based on these scores, the best model for this data would be the Ensemble Classifier, and the second best would be the Balanced Random Forest Classifier. 
 
