@@ -7,7 +7,6 @@ Using the credit card rist dataset from LendingClub, a peer-to-peer lending serv
 ## Results
 During our analysis using the multiple different machine learning models, we found the following accuracy, precision, and recall scores: 
 
-</div align='center'>
 ### Naive Random Oversampling
 <ul>
   <li>Accuracy: 62.49%</li>
@@ -66,7 +65,7 @@ During our analysis using the multiple different machine learning models, we fou
   <li>Recall: 65%</li>
   <img src = 'Images/EEC_Report.JPG'>
 </ul>
-</div>
+
 
 ## Summary
 
