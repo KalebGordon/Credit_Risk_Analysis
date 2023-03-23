@@ -19,50 +19,50 @@ During our analysis using the multiple different machine learning models, we fou
 
 ### SMOTE Oversampling
 <ul>
-  <li>Accuracy: 62.49%</li>
+  <li>Accuracy: 65.12%</li>
   <img src = 'Images/SMOTE_Accuracy.JPG'>
   <li>Precision: 99%</li>
-  <li>Recall: 65%</li>
+  <li>Recall: 66%</li>
   <img src = 'Images/SMOTE_Report.JPG'>
 </ul>
 
 
 ### Cluster Centroids
 <ul>
-  <li>Accuracy: 62.49%</li>
+  <li>Accuracy: 65.12%</li>
   <img src = 'Images/CC_Accuracy.JPG'>
   <li>Precision: 99%</li>
-  <li>Recall: 65%</li>
+  <li>Recall: 44%</li>
   <img src = 'Images/CC_Report.JPG'>
 </ul>
 
 
 ### SMOTEENN
 <ul>
-  <li>Accuracy: 62.49%</li>
+  <li>Accuracy: 65.01%</li>
   <img src = 'Images/SMOTEENN_Accuracy.JPG'>
   <li>Precision: 99%</li>
-  <li>Recall: 65%</li>
+  <li>Recall: 58%</li>
   <img src = 'Images/SMOTEENN_Report.JPG'>
 </ul>
 
 
 ### Balanced Random Forest Classifier
 <ul>
-  <li>Accuracy: 62.49%</li>
-  <img src = 'Images/BRFC_Report.JPG'>
+  <li>Accuracy: ??????%</li>
+  <img src = 'Images/BRFC_Accuracy.JPG'>
   <li>Precision: 99%</li>
-  <li>Recall: 65%</li>
+  <li>Recall: 87%</li>
   <img src = 'Images/BRFC_Report.JPG'>
 </ul>
 
 
 ### Ensemble Classifier
 <ul>
-  <li>Accuracy: 62.49%</li>
-  <img src = 'Images/EEC_Report.JPG'>
+  <li>Accuracy: ?????%</li>
+  <img src = 'Images/EEC_Accuracy.JPG'>
   <li>Precision: 99%</li>
-  <li>Recall: 65%</li>
+  <li>Recall: 87%</li>
   <img src = 'Images/EEC_Report.JPG'>
 </ul>
 
