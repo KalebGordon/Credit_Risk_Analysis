@@ -49,7 +49,7 @@ During our analysis using the multiple different machine learning models, we fou
 
 ### Balanced Random Forest Classifier
 <ul>
-  <li>Accuracy: ??????%</li>
+  <li>Accuracy: 72.96%</li>
   <img src = 'Images/BRFC_Accuracy.JPG'>
   <li>Precision: 99%</li>
   <li>Recall: 87%</li>
@@ -59,7 +59,7 @@ During our analysis using the multiple different machine learning models, we fou
 
 ### Ensemble Classifier
 <ul>
-  <li>Accuracy: ?????%</li>
+  <li>Accuracy: 93.16%</li>
   <img src = 'Images/EEC_Accuracy.JPG'>
   <li>Precision: 99%</li>
   <li>Recall: 87%</li>
